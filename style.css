@@ -133,7 +133,9 @@ html{
     border-radius: 10px;
     cursor: pointer;
 }
-
+.btn:hover{
+    background-color:rgb(210, 99, 99);
+}
 
 #services-container {
     display: flex;
